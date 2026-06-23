@@ -19,5 +19,4 @@ Status
 UI/UX Prototype designed using Google Stitch.
 Currently in the concept and prototype phase.
 
-Screenshots
-(Add screenshots below)
+Screenshots are attached.
